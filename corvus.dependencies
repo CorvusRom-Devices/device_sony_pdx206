@@ -1,0 +1,23 @@
+[
+  {
+    "repository" : "vendor_sony_pdx206",
+    "target_path": "vendor/sony/pdx206",
+    "branch"     : "13"
+  },
+  {
+    "repository" : "kernel_sony_sm8250",
+    "target_path": "kernel/sony/sm8250",
+    "branch"     : "13"
+  },
+  {
+    "repository" : "hardware_sony",
+    "target_path": "hardware/sony",
+    "branch"     : "13"
+  },
+  {
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch"     : "lineage-19.1",
+    "remote"     : "github"
+  }
+]
